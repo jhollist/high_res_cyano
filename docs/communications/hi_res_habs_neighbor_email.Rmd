@@ -1,0 +1,21 @@
+---
+output: 
+  word_document:
+    reference_docx: "template.docx"
+date: "`r lubridate::today()`"
+---
+
+[Pond name] neighbors,
+
+You may have recently heard about some research activities that will be taking place in Shubael and Hamblin Ponds this summer.  We wanted to provide you with a little more information as well as some contacts in case you have more questions.  
+
+Starting this summer a research team from the US Environmental Protection Agency will begin sampling in both Shubael and Hamblin Ponds.  Our goals with this work will be to better understand the fine scale dynamics of Harmful Algal Blooms (HABs).  
+
+The most conspicuous part of our effort will be a water quality buoy that will be moored near the center of the pond from sometime in May through Late October or early November.  In addition to the buoy, our team will be on site 1-2 times per month collecting water samples and taking other measurements.
+
+For more details, we have attached a short one-page description of this research effort.  Also, you can look at <https://www.epa.gov/cyanohabs> for a high level description of HABs.   If you have questions please don't hesitate to contact us.  Also, we would be happy to plan a presentation on our work at some point in the future after we have collected some data.  So look for a follow up for a Fall presentation.
+
+Thank you,
+
+Stephen Shivers (shivers.stephen@epa.gov, Project co-lead)
+Jeff Hollister (hollister.jeff@epa.gov, Project co-lead)

@@ -1,0 +1,10 @@
+---
+output: 
+  word_document:
+    reference_docx: "template.docx"
+date: "`r lubridate::today()`"
+---
+
+# Shubael and Hamblin Pond Research Projects
+
+Starting in May of 2021, the US Environmental Protection Agency will be conducting research in both Shubael and Hamblin Ponds to better understand Harmful Algal Blooms.  You may have even noticed the most conspicuous part of their efforts, the yellow water quality buoys near the center of each pond. To find out more, take a look at the [short description of their project](link to short description) or reach out to the project co-leads, Stephen Shivers (shivers.stephen@epa.gov) or Jeff Hollister (hollister.jeff@epa.gov). For a better understanding of Harmful Algal Blooms in general look at the [US EPA's Cyanobacterial HABs site](https://www.epa.gov/cyanohabs).
