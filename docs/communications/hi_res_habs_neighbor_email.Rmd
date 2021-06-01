@@ -5,17 +5,13 @@ output:
 date: "`r lubridate::today()`"
 ---
 
-[Pond name] neighbors,
+Shubael and Hamblin Pond neighbors,
 
-You may have recently heard about some research activities that will be taking place in Shubael and Hamblin Ponds this summer.  We wanted to provide you with a little more information as well as some contacts in case you have more questions.  
+Over the past several months, a research team from the US Environmental Protection Agency (USEPA) has been coordinating with the Barnstable Clean Water Coalition (BCWC) and the Town of Barnstable to begin a research project in both Shubael and Hamblin Ponds.  We wanted to provide you with a little more information as well as some contacts in case you have more questions.  
 
-Starting this summer a research team from the US Environmental Protection Agency will begin sampling in both Shubael and Hamblin Ponds.  Our goals with this work will be to better understand the fine scale dynamics of Harmful Algal Blooms (HABs).  
+The USEPA team will start sampling early in the summer. The most conspicuous part of the effort will be a yellow water quality buoy that will be moored near the center of each pond from June through early November.  The buoy should not impact your use of the pond.  If you are curious you may certainly take a look at the buoy, but the USEPA team does ask that you stay a few feet from the buoy if you are out near it.
 
-The most conspicuous part of our effort will be a water quality buoy that will be moored near the center of the pond from sometime in May through Late October or early November.  In addition to the buoy, our team will be on site 1-2 times per month collecting water samples and taking other measurements.
+In addition to the buoy, the USEPA team will be on site 1-2 times per month collecting water samples and taking other measurements.  Also, BCWC will be flying a drone on a regular basis at Shubael Pond to collect additional data for HAB monitoring. These data will be processed by USEPA as part of this project. The goals with this work will be to better understand Harmful Algal Blooms (HABs) in general while also providing information specific to each of these two ponds.
 
-For more details, we have attached a short one-page description of this research effort.  Also, you can look at <https://www.epa.gov/cyanohabs> for a high level description of HABs.   If you have questions please don't hesitate to contact us.  Also, we would be happy to plan a presentation on our work at some point in the future after we have collected some data.  So look for a follow up for a Fall presentation.
+For a better understanding of Harmful Algal Blooms in general look at the US EPA's Cyanobacterial HABs site: <https://www.epa.gov/cyanohabs>.  If you have questions about details of the work in Shubael and Hamblin ponds please don't hesitate to contact the USEPA project leads, Stephen Shivers (shivers.stephen@epa.gov) and Jeff Hollister (hollister.jeff@epa.gov).  Also, the USEPA team would be happy to discuss their work after they have collected some data.  Stay tuned for details on that in the near future.
 
-Thank you,
-
-Stephen Shivers (shivers.stephen@epa.gov, Project co-lead)
-Jeff Hollister (hollister.jeff@epa.gov, Project co-lead)

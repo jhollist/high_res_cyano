@@ -1,0 +1,32 @@
+---
+title: High Resolution Dynamics of Harmful Algal Blooms
+output: 
+  word_document:
+    reference_docx: "template.docx"
+date: "`r lubridate::today()`"
+---
+
+# Problem
+
+It is generally accepted that changes in nutrients and temperature can impact the water quality of freshwater systems such as lakes, ponds, and reservoirs, but how these changes occur over time and across space are not fully understood.  
+
+# Research Plans
+
+Starting in the summer of 2021, researchers from the United States Environmental Protection Agency's Atlantic Coastal Environmental Sciences Division (USEPA ACESD), and in coordination with the Town of Barnstable and the Barnstable Clean Water Coalition, will be conducting research on harmful algal blooms (HABs), particularly cyanobacterial HABs.  This work will focus on two Cape Cod ponds, Shubael Pond and Hamblin Pond.
+
+The USEPA ACESD researchers will be using many different methods to assess HABs.  First, the researchers will be deploying a water quality buoy in both Shubael and Hamblin pond.  These buoys will take a reading every 15 minutes and provide information on physical, chemical, and biological properties (e.g. water temperature, dissolved oxygen, chlorophyll, phycocyanin, and nitrate) which help track the changes in the algal populations. Later in the summer, additional, lower-cost sensors will be added to the buoys to assess their potential for HABs forecasting. Second, ACESD staff are also building a system, modeled after the FLAMe (https://flame.wisc.edu), that will be deployed 1-2 times per month to measure the same physical, chemical and biological properties collected by the buoys approximately every 20 meters across the pond.  Third, water samples will be collected 1-2 times per month and will be analyzed for nutrients, cyanotoxins, and algal and zooplankton communities. Lastly, the Barnstable Clean Water Coalition will be flying a drone equipped with a hyperspectral sensor over Shubael Pond to collect water color data for HAB monitoring. These data will be shared with and processed by USEPA as part of this project.
+
+# Research Impact
+
+These detailed spatial and temporal datasets will provide insights into how drivers of algal blooms change and, importantly, how potentially harmful species, like cyanobacteria, respond to these changing drivers.  This type of information is needed to guide management efforts and to hopefully reduce the occurrence of future bloom events.  
+
+Research Team  
+
+- Stephen Shivers
+- Jeff Hollister
+- Betty Kreakie
+- Darryl Keith
+- Don Cobb
+- Tara Burke
+- Sophie Fournier, ORISE
+- Shasten Sherwell, ORISE
