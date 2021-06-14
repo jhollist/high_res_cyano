@@ -19,3 +19,7 @@ for(i in new_files){
                                  userpwd = up, 
                                  dirlistonly = FALSE), con = file_path)
 }
+
+system("git add -A")
+system('git commit -m "auto download data files"')
+system("git push origin main")
