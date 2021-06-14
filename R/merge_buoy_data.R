@@ -24,8 +24,10 @@ clean_buoy_data <- function(csv_file){
   shubael_data <- mutate(shubael_data, waterbody = "shubael")
   hamblin_data <- mutate(hamblin_data, waterbody = "hamblin")
   buoy_data <- rbind(shubael_data, hamblin_data)
-  buoy_data <- select(buoy_data, waterbody, date_time, everything())
+  buoy_data <- mutate(buoy_data, device = "cb150")
+  buoy_data <- select(buoy_data, waterbody, date_time, device, everything())
   buoy_data <- pivot_longer(buoy_data,cols = 'processor power':'roll')
+  
 }
 
 clean_buoy_data(files[1])
