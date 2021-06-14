@@ -2,19 +2,19 @@ library(RCurl)
 library(stringr)
 library(here)
 
-up <- paste0(Sys.getenv("U"),":", Sys.getenv("P"))
+up <- paste0(Sys.getenv("NEWFTPU"),":", Sys.getenv("NEWFTPP"))
 
-files_string <- RCurl::getURL("sftp://newftp.epa.gov/cb150/", 
+files_string <- RCurl::getURL("sftp://newftp.epa.gov/buoys/", 
                               userpwd = up, 
                               dirlistonly = TRUE)
 files <- unlist(str_split(files_string, "\n"))[grepl("data_report", 
                                                          unlist(str_split(
                                                            files_string, "\n")))]
-new_files <- files[!files %in% list.files("data/cb150")]
+new_files <- files[!files %in% list.files("data/buoys")]
 
 for(i in new_files){
-  file_url <- paste0("sftp://newftp.epa.gov/cb150/",i)
-  file_path <- paste0(here("data/cb150/"),"/",i)
+  file_url <- paste0("sftp://newftp.epa.gov/buoys/",i)
+  file_path <- paste0(here("data/buoys/"),"/",i)
   writeBin(object = getBinaryURL(url = file_url, 
                                  userpwd = up, 
                                  dirlistonly = FALSE), con = file_path)
