@@ -2,7 +2,7 @@ library(RCurl)
 library(stringr)
 library(here)
 
-setwd("C:/Users/JHollist/projects/high_res_cyano")
+path <- "C:/Users/JHollist/projects/high_res_cyano"
 up <- paste0(Sys.getenv("NEWFTPU"),":", Sys.getenv("NEWFTPP"))
 up
 
@@ -16,12 +16,13 @@ new_files <- files[!files %in% list.files("data/buoys")]
 
 for(i in new_files){
   file_url <- paste0("sftp://newftp.epa.gov/buoys/",i)
-  file_path <- paste0(here("data/buoys/"),"/",i)
+  file_path <- paste0(path, "/data/buoys/", i)
   writeBin(object = getBinaryURL(url = file_url, 
                                  userpwd = up, 
                                  dirlistonly = FALSE), con = file_path)
 }
 
+setwd(path)
 system("git add -A")
 system('git commit -m "auto download data files"')
 system("git push origin main")
