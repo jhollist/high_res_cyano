@@ -30,5 +30,5 @@ clean_buoy_data <- function(csv_file){
   
 }
 
-clean_buoy_data(files[1])
+clean_buoy_data(files[9])
 
