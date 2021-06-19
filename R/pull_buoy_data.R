@@ -3,8 +3,9 @@ library(stringr)
 library(here)
 
 path <- "C:/Users/JHollist/projects/high_res_cyano"
+setwd(path)
+system("git pull")
 up <- paste0(Sys.getenv("NEWFTPU"),":", Sys.getenv("NEWFTPP"))
-up
 
 files_string <- RCurl::getURL("sftp://newftp.epa.gov/buoys/", 
                               userpwd = up, 
