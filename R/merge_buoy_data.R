@@ -10,7 +10,9 @@ files <- list.files("C:/Users/JHollist/projects/high_res_cyano/data/buoys",
                     full.names = TRUE)
 
 # Get rda time
-# Subset filles that are newer than rda time
+last_rda <- file.info(here("data/merged_buoy_data.rda"))$mtime
+# file times
+files <- files[file.info(files)$mtime >= last_rda]
 
 
 clean_buoy_data <- function(csv_file){
@@ -32,12 +34,19 @@ clean_buoy_data <- function(csv_file){
   buoy_data <- mutate(buoy_data, device = "cb150")
   buoy_data <- select(buoy_data, waterbody, date_time, device, everything())
   buoy_data <- pivot_longer(buoy_data, cols = 'processor power':'roll')
+  buoy_data <- mutate(buoy_data, date_time = mdy_hms(date_time, 
+                                                     tz = "America/New_York"))
   buoy_data
 }
 
-merged_buoy_data_new <- map_df(files, clean_buoy_data)
+merged_buoy_data_new <- map_df(files, clean_buoy_data) %>%
+  unique()
 load("C:/Users/JHollist/projects/high_res_cyano/data/merged_buoy_data.rda")
-merged_buoy_data <- rbind(merged_buoy_data, merged_buoy_data_new)
+merged_buoy_data <- rbind(merged_buoy_data, merged_buoy_data_new) %>%
+  unique() %>%
+  # Time Zero for both ponds
+  filter((waterbody == "shubael" & date_time >= "2021-06-10 12:00:00") |
+           (waterbody == "hamblin" & date_time >= "2021-06-10 14:15"))
 
 save(merged_buoy_data, 
      file = "C:/Users/JHollist/projects/high_res_cyano/data/merged_buoy_data.rda",
