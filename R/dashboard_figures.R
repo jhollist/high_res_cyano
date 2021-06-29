@@ -17,5 +17,7 @@ dash_gg <- merged_buoy_data %>%
   facet_grid(name ~ waterbody, scales = "free") +
   geom_point()
 
-ggplotly(dash_gg)
+dash_gg_plotly <- ggplotly(dash_gg)
+
+htmlwidgets::saveWidget(dash_gg_plotly, here("index.html"))
   
