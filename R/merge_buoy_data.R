@@ -5,12 +5,15 @@ library(readr)
 library(tidyr)
 library(here)
 library(purrr)
+path <- "C:/Users/JHollist/projects/high_res_cyano"
+setwd(path)
+system("git pull")
 
 files <- list.files("C:/Users/JHollist/projects/high_res_cyano/data/buoys", 
                     full.names = TRUE)
 
 # Get rda time
-last_rda <- file.info(here("data/merged_buoy_data.rda"))$mtime
+last_rda <- file.info("C:/Users/JHollist/projects/high_res_cyano/data/merged_buoy_data.rda")$mtime
 # file times
 files <- files[file.info(files)$mtime >= last_rda]
 
@@ -52,3 +55,7 @@ save(merged_buoy_data,
      file = "C:/Users/JHollist/projects/high_res_cyano/data/merged_buoy_data.rda",
      compress = "xz")
 
+setwd(path)
+system("git add -A")
+system('git commit -m "auto merge data files"')
+system("git push origin main")

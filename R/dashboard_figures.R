@@ -3,6 +3,9 @@ library(lubridate)
 library(ggplot2)
 library(here)
 library(plotly)
+path <- "C:/Users/JHollist/projects/high_res_cyano"
+setwd(path)
+system("git pull")
 
 load(here("data/merged_buoy_data.rda"))
 
@@ -24,4 +27,9 @@ dash_gg <- merged_buoy_data %>%
 dash_gg_plotly <- ggplotly(dash_gg)
 
 htmlwidgets::saveWidget(dash_gg_plotly, here("../cc_buoys/index.html"))
-  
+setwd(here("../cc_buoys/"))
+system("git add -A")
+system('git commit -m "auto build"')
+system("git push origin main")
+setwd("../high_res_cyano")
+      
