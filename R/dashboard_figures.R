@@ -7,7 +7,7 @@ path <- "C:/Users/JHollist/projects/high_res_cyano"
 setwd(path)
 system("git pull")
 
-load(here("data/merged_buoy_data.rda"))
+load("C:/Users/JHollist/projects/high_res_cyano/data/merged_buoy_data.rda")
 
 dash_gg <- merged_buoy_data %>%
   filter(name %in% c("primary power", "no3-n conc", "no3-", "temperature",
@@ -22,14 +22,17 @@ dash_gg <- merged_buoy_data %>%
   ungroup() %>%
   ggplot(aes(x=date_hour, y = value)) +
   facet_grid(name ~ waterbody, scales = "free") +
-  geom_point()
+  geom_point() + 
+  labs(title = paste("Last Updated:", lubridate::today()))
 
 dash_gg_plotly <- ggplotly(dash_gg)
 
-htmlwidgets::saveWidget(dash_gg_plotly, here("../cc_buoys/index.html"))
-setwd(here("../cc_buoys/"))
+htmlwidgets::saveWidget(dash_gg_plotly, 
+                        "C:/Users/JHollist/projects/cc_buoys/index.html", 
+                        selfcontained = FALSE)
+setwd("C:/Users/JHollist/projects/cc_buoys/")
 system("git add -A")
 system('git commit -m "auto build"')
 system("git push origin main")
-setwd("../high_res_cyano")
+
       
