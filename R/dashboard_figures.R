@@ -10,9 +10,10 @@ system("git pull")
 load("C:/Users/JHollist/projects/high_res_cyano/data/merged_buoy_data.rda")
 
 dash_gg <- merged_buoy_data %>%
-  filter(name %in% c("primary power", "no3-n conc", "no3-", "temperature",
-                     "ph", "odo", "turbidity", "chlorophyll rfu", 
-                     "bga-phycocyanin rfu")) %>%
+  filter(name %in% c("no3-", "temperature",
+                     "ph", "odo", "chlorophyll rfu", 
+                     "bga-phycocyanin rfu", "rel. barometric pressure",
+                     "wind speed.1", "air temperature")) %>%
   mutate(year = year(date_time), month = month(date_time), day = day(date_time),
          hour = hour(date_time), 
          date_hour = ymd_h(paste(year, month, day, hour))) %>%
