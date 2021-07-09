@@ -686,3 +686,66 @@ The following object is masked from 'package:graphics':
 
     layout
 
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit ccbf715a88c29548b53b95cdcbd543b1434597f6.
+error: Your local changes to the following files would be overwritten by merge:
+	R/dashboard_figures.log
+	R/merge_buoy_data.log
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	data/buoys/data_report_07-09-2021_18-01-10.csv
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff ccbf715a88c29548b53b95cdcbd543b1434597f6
+output, run
+$ git reset --hard
+to recover.
+[1] 128
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.1.1/css/crosstalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.1.1/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.1.1/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.1.1/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.3/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 5218204] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   7d7f12f..5218204  main -> main
+[1] 0
