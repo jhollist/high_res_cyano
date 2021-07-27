@@ -1034,3 +1034,44 @@ To https://github.com/jhollist/high_res_cyano
    b4e4fd5..a2af8e7  main -> main
 [1] 0
 here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-24-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-25-2021_06-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-25-2021_18-00-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-26-2021_06-00-11.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main f809a05] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 542 insertions(+)
+ create mode 100644 data/buoys/data_report_07-24-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_07-25-2021_06-01-09.csv
+ create mode 100644 data/buoys/data_report_07-25-2021_18-00-08.csv
+ create mode 100644 data/buoys/data_report_07-26-2021_06-00-11.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   5cff2e4..f809a05  main -> main
+[1] 0
+here() starts at C:/Windows/System32

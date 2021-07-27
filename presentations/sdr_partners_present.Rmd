@@ -1,0 +1,54 @@
+---
+title: "High Resolution Dynamics of HABs"
+author: "Jeff Hollister"
+date: "7/28/2021"
+output:  
+  powerpoint_presentation:
+    reference_doc: template.pptx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Where, When
+
+- Shubael Pond and Hamblin Pond
+- June to November
+  - Started 2021
+
+## Why
+
+- Why High Resolution?
+- Why in Shubael?
+- Why in Hamblin?
+
+## What: HABS over time
+
+- Buoys
+  - Nexsens CB-150 
+    - Multiparameter sonde 
+      - Temperature, dissolved oxygen, pH, conductivity, tubirdity, FDOM, chlorophyll, phycocyanin
+    - Optical nitrate sensor
+    - Weather station
+  - FieldKit Water with solar
+    - Temperature, dissolved oxygen, pH, conductivity
+- Fixed location
+- Every 15 minutes
+
+## What: HABS over space
+
+- Fast Limnological Automated Measurments (FLAMe)
+  - University of Wisconsin Center for Limnology: <https://flame.wisc.edu>
+  - On-board flow through system
+  - Multiparameter Sonde
+  - Optical nitrate sensor
+  - Measurements approx. every 20 meters
+  - Twice a month
+  - Work in progress!
+
+## Preliminary Results
+
+- [Shhhh](https://jhollist.github.io/cc_buoys)
+
