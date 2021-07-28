@@ -151,7 +151,7 @@ nla_tn_tp_chla_gg
       - Temperature, dissolved oxygen, pH, conductivity, tubirdity, FDOM, chlorophyll, phycocyanin
     - Optical nitrate sensor
     - Weather station
-  - FieldKit Water with solar
+  - FieldKit Water with solar (RARE project with R7)
     - Temperature, dissolved oxygen, pH, conductivity
 - Fixed location
 - Every 15 minutes
@@ -159,6 +159,8 @@ nla_tn_tp_chla_gg
 ![](../pictures/buoy_pics/happy_field_crew.jpg)
 
 ![](../pictures/buoy_pics/hamblin_buoy.jpg)
+
+![](../pictures/cheap_pics/FK-Water-Solar_4-Probe-Cables-Solar.jpg)
 
 ## Preliminary Results
 
