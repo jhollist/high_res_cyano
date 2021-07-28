@@ -1984,3 +1984,22 @@ remove the file manually to continue.
 [1] 128
 Everything up-to-date
 [1] 0
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+here() starts at C:/Windows/System32
