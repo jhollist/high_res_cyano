@@ -2197,3 +2197,22 @@ no changes added to commit (use "git add" and/or "git commit -a")
 [1] 1
 Everything up-to-date
 [1] 0
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+here() starts at C:/Windows/System32

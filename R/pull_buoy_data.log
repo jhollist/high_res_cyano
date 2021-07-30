@@ -1187,3 +1187,45 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
 [1] 0
 here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-28-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-29-2021_06-01-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-29-2021_18-01-06.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-30-2021_06-00-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 649e4ac] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 742 insertions(+), 6 deletions(-)
+ create mode 100644 data/buoys/data_report_07-28-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_07-29-2021_06-01-11.csv
+ create mode 100644 data/buoys/data_report_07-29-2021_18-01-06.csv
+ create mode 100644 data/buoys/data_report_07-30-2021_06-00-14.csv
+ rewrite data/merged_buoy_data.rda (92%)
+ create mode 100644 presentations/~$sdr_partners_present.pptx
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   fac3ee1..649e4ac  main -> main
+[1] 0
