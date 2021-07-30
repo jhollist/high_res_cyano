@@ -2062,3 +2062,138 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jhollist/high_res_cyano
    965f6c8..1cbaf42  main -> main
 [1] 0
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+error: open("presentations/~$sdr_partners_present.pptx"): Permission denied
+error: unable to index file 'presentations/~$sdr_partners_present.pptx'
+fatal: adding files failed
+[1] 128
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   R/dashboard_figures.R
+	modified:   R/merge_buoy_data.log
+	modified:   presentations/sdr_partners_present.pptx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	presentations/~$sdr_partners_present.pptx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1] 1
+Everything up-to-date
+[1] 0
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 95 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (99): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X14, X15, X16, X17...
+lgl  (5): X9, X45, X46, X97, X98
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 95 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (99): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X14, X15, X16, X17...
+lgl  (5): X9, X45, X46, X97, X98
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-28-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_07-29-2021_06-01-11.csv.
+The file will have its original line endings in your working directory
+error: open("presentations/~$sdr_partners_present.pptx"): Permission denied
+error: unable to index file 'presentations/~$sdr_partners_present.pptx'
+fatal: adding files failed
+[1] 128
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   R/dashboard_figures.R
+	modified:   R/dashboard_figures.log
+	modified:   R/merge_buoy_data.log
+	modified:   R/pull_buoy_data.log
+	modified:   data/merged_buoy_data.rda
+	modified:   presentations/sdr_partners_present.pptx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	data/buoys/data_report_07-28-2021_18-00-09.csv
+	data/buoys/data_report_07-29-2021_06-01-11.csv
+	presentations/~$sdr_partners_present.pptx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1] 1
+Everything up-to-date
+[1] 0

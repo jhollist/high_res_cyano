@@ -13,7 +13,7 @@ load("C:/Users/JHollist/projects/high_res_cyano/data/merged_buoy_data.rda")
 
 dash_gg <- merged_buoy_data %>%
   filter(name %in% c("no3-", "temperature",
-                     "ph", "odo", "chlorophyll rfu", 
+                     "ph", "odosat", "chlorophyll rfu", 
                      "bga-phycocyanin rfu","turbidity")) %>%
   mutate(year = year(date_time), month = month(date_time), day = day(date_time),
          hour = hour(date_time), 
@@ -22,13 +22,13 @@ dash_gg <- merged_buoy_data %>%
   filter(value <= quantile(value, c(0.999), na.rm = TRUE)) %>%
   summarize(value = mean(value, na.rm = TRUE)) %>%
   ungroup() %>%
-  mutate(name = factor(name, levels = c("temperature", "ph", "odo", "no3-",
+  mutate(name = factor(name, levels = c("temperature", "ph", "odosat", "turbidity",
                                         "chlorophyll rfu", 
-                                        "bga-phycocyanin rfu", "turbidity"),
-                       labels = c("Temp(C)", "pH", "DO(mg/L)", 
-                                  "Nitrate(mg/L)",
+                                        "bga-phycocyanin rfu", "no3-"),
+                       labels = c("Temp(C)", "pH", "DO(%)", 
+                                  "Turbidity(NTU)",
                                   "Chlor.(RFU)", "Phyco(RFU)", 
-                                  "Turbidity(NTU)")),
+                                  "Nitrate(mg/L)")),
          waterbody = factor(waterbody, labels = 
                               c("Hamblin Pond", "Shubael Pond"))) %>%
   ggplot(aes(x=date_hour, y = value)) +
