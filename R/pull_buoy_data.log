@@ -1837,3 +1837,27 @@ To https://github.com/jhollist/high_res_cyano
    ab1b2be..838b8e7  main -> main
 [1] 0
 here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+[1] 0
+[main 2c2eec0] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   41a850f..2c2eec0  main -> main
+[1] 0
