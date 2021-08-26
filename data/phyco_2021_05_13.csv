@@ -1,0 +1,11 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol,fluorometer
+SAMPLE-001,10071.36,RFU,na,solid std,na,na,phyco_rfu,26,8,2021,na,G04
+SAMPLE-002,55.45,RFU,hamblin,blank,int,1,blank,13,5,2021,250,G04
+SAMPLE-003,56.85,RFU,hamblin,blank,int,2,blank,13,5,2021,250,G04
+SAMPLE-004,55.02,RFU,hamblin,1,int,1,phyco_rfu,13,5,2021,250,G04
+SAMPLE-005,53.18,RFU,hamblin,1,int,2,phyco_rfu,13,5,2021,250,G04
+SAMPLE-006,50.52,RFU,shubael,blank,int,1,blank,13,5,2021,250,G04
+SAMPLE-007,48.33,RFU,shubael,blank,int,2,blank,13,5,2021,250,G04
+SAMPLE-008,53.25,RFU,shubael,1,int,1,phyco_rfu,13,5,2021,250,G04
+SAMPLE-009,61.75,RFU,shubael,1,int,2,phyco_rfu,13,5,2021,250,G04
+SAMPLE-064,9795.19,RFU,na,solid std,na,na,phyco_rfu,26,8,2021,na,G04
