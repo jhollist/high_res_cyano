@@ -7656,3 +7656,62 @@ The following objects are masked from 'package:base':
 Warning message:
 package 'readr' was built under R version 4.1.1 
 here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 95 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (99): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X14, X15, X16, X17...
+lgl  (5): X9, X45, X46, X97, X98
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 95 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (99): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X14, X15, X16, X17...
+lgl  (5): X9, X45, X46, X97, X98
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+[1] 0
+[main 1a0e5ce] auto merge data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 57 insertions(+)
+ rewrite data/merged_buoy_data.rda (82%)
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   02345ba..1a0e5ce  main -> main
+[1] 0
