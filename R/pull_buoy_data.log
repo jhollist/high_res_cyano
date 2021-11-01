@@ -3369,3 +3369,43 @@ To https://github.com/jhollist/high_res_cyano
    6c5e832..3043099  main -> main
 [1] 0
 here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-30-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-31-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-31-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-01-2021_06-00-17.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 1090275] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 539 insertions(+)
+ create mode 100644 data/buoys/data_report_10-30-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_10-31-2021_06-01-14.csv
+ create mode 100644 data/buoys/data_report_10-31-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-01-2021_06-00-17.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   ed57e6a..1090275  main -> main
+[1] 0
