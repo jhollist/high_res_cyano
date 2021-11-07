@@ -8329,3 +8329,406 @@ package 'readr' was built under R version 4.1.1
 Warning message:
 package 'tidyr' was built under R version 4.1.1 
 here() starts at C:/Windows/System32
+From https://github.com/jhollist/high_res_cyano
+   29f22c9..3cb2f4c  main       -> origin/main
+Updating 29f22c9..3cb2f4c
+Fast-forward
+ data/exo2_raw/210920-110046-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-110218-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-110246-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/210920-110925-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-111006-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-111116-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-111843-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-111908-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-111941-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-112503-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-112727-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-112840-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/210920-113308-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/210920-113332-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-113358-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-113911-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/210920-113946-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-114010-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-114121-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-114209-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-114252-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-114329-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-115729-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/210920-115751-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/210920-115834-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-110411-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-110515-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-110625-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-111407-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-111444-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-111517-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-111936-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-111953-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-112022-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-112547-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-112625-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-112658-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-113355-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-113412-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-113446-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-113805-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-113828-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-113856-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-114542-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-114614-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-114654-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-114733-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-114821-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-114937-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211012-133221-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-133319-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-133420-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-133736-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-133835-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-133939-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-134510-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-134536-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-134626-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-135440-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-135537-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-135626-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-135722-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-135824-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-135927-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-140010-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211012-141046-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-141128-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-141222-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-142156-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-142245-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-142335-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211012-142745-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-142810-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211012-142843-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-113630-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-113654-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-113750-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-113852-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-114000-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-114103-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-114155-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-114222-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-114250-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-114344-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-114417-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-131041-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-131124-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-131156-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131225-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131305-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131339-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131358-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131435-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131459-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131530-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-131607-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-131725-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211013-131840-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-131921-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-132006-_.csv             | Bin 0 -> 1396 bytes
+ data/exo2_raw/211013-132049-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211013-132425-_.csv             | Bin 0 -> 1408 bytes
+ data/exo2_raw/211101-111632-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211101-111714-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211101-111738-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211101-112529-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-112608-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-112647-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-113614-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-113633-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-113650-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-114401-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-114424-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-114457-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211101-115101-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-115119-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-115229-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-115806-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-115818-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-115849-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211101-115942-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-115958-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-120053-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-120127-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211101-120158-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-120229-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-122232-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-122306-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211101-122329-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-110927-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-111402-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-111546-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-111642-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-111816-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-112015-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-112308-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-112358-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-112537-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211104-112639-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-112929-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211104-113048-_.csv             | Bin 0 -> 1404 bytes
+ data/exo2_raw/211104-113535-_.csv             | Bin 0 -> 1410 bytes
+ data/exo2_raw/211104-114149-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-114722-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-115231-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-115721-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-131154-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-131234-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-131318-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-131439-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-131525-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-131630-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-131744-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-131840-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-132010-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-132052-_.csv             | Bin 0 -> 1398 bytes
+ data/exo2_raw/211104-132131-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-132218-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-132302-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-132419-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-132609-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-132658-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-133131-_.csv             | Bin 0 -> 1412 bytes
+ data/exo2_raw/211104-133955-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-134643-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/211104-135435-_.csv             | Bin 0 -> 1402 bytes
+ data/exo2_raw/211104-140224-_.csv             | Bin 0 -> 1400 bytes
+ data/exo2_raw/exocalrecords-211105-132556.txt | Bin 0 -> 12872 bytes
+ data/exo2_raw/exocalrecords-211105-132607.txt | Bin 0 -> 12872 bytes
+ data/exo2_raw/exocalrecords-211105-132920.txt | Bin 0 -> 12872 bytes
+ 170 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data/exo2_raw/210920-110046-_.csv
+ create mode 100644 data/exo2_raw/210920-110218-_.csv
+ create mode 100644 data/exo2_raw/210920-110246-_.csv
+ create mode 100644 data/exo2_raw/210920-110925-_.csv
+ create mode 100644 data/exo2_raw/210920-111006-_.csv
+ create mode 100644 data/exo2_raw/210920-111116-_.csv
+ create mode 100644 data/exo2_raw/210920-111843-_.csv
+ create mode 100644 data/exo2_raw/210920-111908-_.csv
+ create mode 100644 data/exo2_raw/210920-111941-_.csv
+ create mode 100644 data/exo2_raw/210920-112503-_.csv
+ create mode 100644 data/exo2_raw/210920-112727-_.csv
+ create mode 100644 data/exo2_raw/210920-112840-_.csv
+ create mode 100644 data/exo2_raw/210920-113308-_.csv
+ create mode 100644 data/exo2_raw/210920-113332-_.csv
+ create mode 100644 data/exo2_raw/210920-113358-_.csv
+ create mode 100644 data/exo2_raw/210920-113911-_.csv
+ create mode 100644 data/exo2_raw/210920-113946-_.csv
+ create mode 100644 data/exo2_raw/210920-114010-_.csv
+ create mode 100644 data/exo2_raw/210920-114121-_.csv
+ create mode 100644 data/exo2_raw/210920-114209-_.csv
+ create mode 100644 data/exo2_raw/210920-114252-_.csv
+ create mode 100644 data/exo2_raw/210920-114329-_.csv
+ create mode 100644 data/exo2_raw/210920-115729-_.csv
+ create mode 100644 data/exo2_raw/210920-115751-_.csv
+ create mode 100644 data/exo2_raw/210920-115834-_.csv
+ create mode 100644 data/exo2_raw/211012-110411-_.csv
+ create mode 100644 data/exo2_raw/211012-110515-_.csv
+ create mode 100644 data/exo2_raw/211012-110625-_.csv
+ create mode 100644 data/exo2_raw/211012-111407-_.csv
+ create mode 100644 data/exo2_raw/211012-111444-_.csv
+ create mode 100644 data/exo2_raw/211012-111517-_.csv
+ create mode 100644 data/exo2_raw/211012-111936-_.csv
+ create mode 100644 data/exo2_raw/211012-111953-_.csv
+ create mode 100644 data/exo2_raw/211012-112022-_.csv
+ create mode 100644 data/exo2_raw/211012-112547-_.csv
+ create mode 100644 data/exo2_raw/211012-112625-_.csv
+ create mode 100644 data/exo2_raw/211012-112658-_.csv
+ create mode 100644 data/exo2_raw/211012-113355-_.csv
+ create mode 100644 data/exo2_raw/211012-113412-_.csv
+ create mode 100644 data/exo2_raw/211012-113446-_.csv
+ create mode 100644 data/exo2_raw/211012-113805-_.csv
+ create mode 100644 data/exo2_raw/211012-113828-_.csv
+ create mode 100644 data/exo2_raw/211012-113856-_.csv
+ create mode 100644 data/exo2_raw/211012-114542-_.csv
+ create mode 100644 data/exo2_raw/211012-114614-_.csv
+ create mode 100644 data/exo2_raw/211012-114654-_.csv
+ create mode 100644 data/exo2_raw/211012-114733-_.csv
+ create mode 100644 data/exo2_raw/211012-114821-_.csv
+ create mode 100644 data/exo2_raw/211012-114937-_.csv
+ create mode 100644 data/exo2_raw/211012-133221-_.csv
+ create mode 100644 data/exo2_raw/211012-133319-_.csv
+ create mode 100644 data/exo2_raw/211012-133420-_.csv
+ create mode 100644 data/exo2_raw/211012-133736-_.csv
+ create mode 100644 data/exo2_raw/211012-133835-_.csv
+ create mode 100644 data/exo2_raw/211012-133939-_.csv
+ create mode 100644 data/exo2_raw/211012-134510-_.csv
+ create mode 100644 data/exo2_raw/211012-134536-_.csv
+ create mode 100644 data/exo2_raw/211012-134626-_.csv
+ create mode 100644 data/exo2_raw/211012-135440-_.csv
+ create mode 100644 data/exo2_raw/211012-135537-_.csv
+ create mode 100644 data/exo2_raw/211012-135626-_.csv
+ create mode 100644 data/exo2_raw/211012-135722-_.csv
+ create mode 100644 data/exo2_raw/211012-135824-_.csv
+ create mode 100644 data/exo2_raw/211012-135927-_.csv
+ create mode 100644 data/exo2_raw/211012-140010-_.csv
+ create mode 100644 data/exo2_raw/211012-141046-_.csv
+ create mode 100644 data/exo2_raw/211012-141128-_.csv
+ create mode 100644 data/exo2_raw/211012-141222-_.csv
+ create mode 100644 data/exo2_raw/211012-142156-_.csv
+ create mode 100644 data/exo2_raw/211012-142245-_.csv
+ create mode 100644 data/exo2_raw/211012-142335-_.csv
+ create mode 100644 data/exo2_raw/211012-142745-_.csv
+ create mode 100644 data/exo2_raw/211012-142810-_.csv
+ create mode 100644 data/exo2_raw/211012-142843-_.csv
+ create mode 100644 data/exo2_raw/211013-113630-_.csv
+ create mode 100644 data/exo2_raw/211013-113654-_.csv
+ create mode 100644 data/exo2_raw/211013-113750-_.csv
+ create mode 100644 data/exo2_raw/211013-113852-_.csv
+ create mode 100644 data/exo2_raw/211013-114000-_.csv
+ create mode 100644 data/exo2_raw/211013-114103-_.csv
+ create mode 100644 data/exo2_raw/211013-114155-_.csv
+ create mode 100644 data/exo2_raw/211013-114222-_.csv
+ create mode 100644 data/exo2_raw/211013-114250-_.csv
+ create mode 100644 data/exo2_raw/211013-114344-_.csv
+ create mode 100644 data/exo2_raw/211013-114417-_.csv
+ create mode 100644 data/exo2_raw/211013-131041-_.csv
+ create mode 100644 data/exo2_raw/211013-131124-_.csv
+ create mode 100644 data/exo2_raw/211013-131156-_.csv
+ create mode 100644 data/exo2_raw/211013-131225-_.csv
+ create mode 100644 data/exo2_raw/211013-131305-_.csv
+ create mode 100644 data/exo2_raw/211013-131339-_.csv
+ create mode 100644 data/exo2_raw/211013-131358-_.csv
+ create mode 100644 data/exo2_raw/211013-131435-_.csv
+ create mode 100644 data/exo2_raw/211013-131459-_.csv
+ create mode 100644 data/exo2_raw/211013-131530-_.csv
+ create mode 100644 data/exo2_raw/211013-131607-_.csv
+ create mode 100644 data/exo2_raw/211013-131725-_.csv
+ create mode 100644 data/exo2_raw/211013-131840-_.csv
+ create mode 100644 data/exo2_raw/211013-131921-_.csv
+ create mode 100644 data/exo2_raw/211013-132006-_.csv
+ create mode 100644 data/exo2_raw/211013-132049-_.csv
+ create mode 100644 data/exo2_raw/211013-132425-_.csv
+ create mode 100644 data/exo2_raw/211101-111632-_.csv
+ create mode 100644 data/exo2_raw/211101-111714-_.csv
+ create mode 100644 data/exo2_raw/211101-111738-_.csv
+ create mode 100644 data/exo2_raw/211101-112529-_.csv
+ create mode 100644 data/exo2_raw/211101-112608-_.csv
+ create mode 100644 data/exo2_raw/211101-112647-_.csv
+ create mode 100644 data/exo2_raw/211101-113614-_.csv
+ create mode 100644 data/exo2_raw/211101-113633-_.csv
+ create mode 100644 data/exo2_raw/211101-113650-_.csv
+ create mode 100644 data/exo2_raw/211101-114401-_.csv
+ create mode 100644 data/exo2_raw/211101-114424-_.csv
+ create mode 100644 data/exo2_raw/211101-114457-_.csv
+ create mode 100644 data/exo2_raw/211101-115101-_.csv
+ create mode 100644 data/exo2_raw/211101-115119-_.csv
+ create mode 100644 data/exo2_raw/211101-115229-_.csv
+ create mode 100644 data/exo2_raw/211101-115806-_.csv
+ create mode 100644 data/exo2_raw/211101-115818-_.csv
+ create mode 100644 data/exo2_raw/211101-115849-_.csv
+ create mode 100644 data/exo2_raw/211101-115942-_.csv
+ create mode 100644 data/exo2_raw/211101-115958-_.csv
+ create mode 100644 data/exo2_raw/211101-120053-_.csv
+ create mode 100644 data/exo2_raw/211101-120127-_.csv
+ create mode 100644 data/exo2_raw/211101-120158-_.csv
+ create mode 100644 data/exo2_raw/211101-120229-_.csv
+ create mode 100644 data/exo2_raw/211101-122232-_.csv
+ create mode 100644 data/exo2_raw/211101-122306-_.csv
+ create mode 100644 data/exo2_raw/211101-122329-_.csv
+ create mode 100644 data/exo2_raw/211104-110927-_.csv
+ create mode 100644 data/exo2_raw/211104-111402-_.csv
+ create mode 100644 data/exo2_raw/211104-111546-_.csv
+ create mode 100644 data/exo2_raw/211104-111642-_.csv
+ create mode 100644 data/exo2_raw/211104-111816-_.csv
+ create mode 100644 data/exo2_raw/211104-112015-_.csv
+ create mode 100644 data/exo2_raw/211104-112308-_.csv
+ create mode 100644 data/exo2_raw/211104-112358-_.csv
+ create mode 100644 data/exo2_raw/211104-112537-_.csv
+ create mode 100644 data/exo2_raw/211104-112639-_.csv
+ create mode 100644 data/exo2_raw/211104-112929-_.csv
+ create mode 100644 data/exo2_raw/211104-113048-_.csv
+ create mode 100644 data/exo2_raw/211104-113535-_.csv
+ create mode 100644 data/exo2_raw/211104-114149-_.csv
+ create mode 100644 data/exo2_raw/211104-114722-_.csv
+ create mode 100644 data/exo2_raw/211104-115231-_.csv
+ create mode 100644 data/exo2_raw/211104-115721-_.csv
+ create mode 100644 data/exo2_raw/211104-131154-_.csv
+ create mode 100644 data/exo2_raw/211104-131234-_.csv
+ create mode 100644 data/exo2_raw/211104-131318-_.csv
+ create mode 100644 data/exo2_raw/211104-131439-_.csv
+ create mode 100644 data/exo2_raw/211104-131525-_.csv
+ create mode 100644 data/exo2_raw/211104-131630-_.csv
+ create mode 100644 data/exo2_raw/211104-131744-_.csv
+ create mode 100644 data/exo2_raw/211104-131840-_.csv
+ create mode 100644 data/exo2_raw/211104-132010-_.csv
+ create mode 100644 data/exo2_raw/211104-132052-_.csv
+ create mode 100644 data/exo2_raw/211104-132131-_.csv
+ create mode 100644 data/exo2_raw/211104-132218-_.csv
+ create mode 100644 data/exo2_raw/211104-132302-_.csv
+ create mode 100644 data/exo2_raw/211104-132419-_.csv
+ create mode 100644 data/exo2_raw/211104-132609-_.csv
+ create mode 100644 data/exo2_raw/211104-132658-_.csv
+ create mode 100644 data/exo2_raw/211104-133131-_.csv
+ create mode 100644 data/exo2_raw/211104-133955-_.csv
+ create mode 100644 data/exo2_raw/211104-134643-_.csv
+ create mode 100644 data/exo2_raw/211104-135435-_.csv
+ create mode 100644 data/exo2_raw/211104-140224-_.csv
+ create mode 100644 data/exo2_raw/exocalrecords-211105-132556.txt
+ create mode 100644 data/exo2_raw/exocalrecords-211105-132607.txt
+ create mode 100644 data/exo2_raw/exocalrecords-211105-132920.txt
+[1] 0
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 95 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (99): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X14, X15, X16, X17...
+lgl  (5): X9, X45, X46, X97, X98
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 95 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (99): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X14, X15, X16, X17...
+lgl  (5): X9, X45, X46, X97, X98
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0b100df] auto merge data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 59 insertions(+)
+ rewrite data/merged_buoy_data.rda (82%)
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   3cb2f4c..0b100df  main -> main
+[1] 0
