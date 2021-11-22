@@ -9865,3 +9865,78 @@ package 'readr' was built under R version 4.1.1
 Warning message:
 package 'tidyr' was built under R version 4.1.1 
 here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 96 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (23): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X54, X55, X56, X57...
+lgl (81): X9, X14, X15, X16, X17, X18, X19, X20, X21, X22, X23, X24, X25, X2...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 95 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (23): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X54, X55, X56, X57...
+lgl (81): X9, X14, X15, X16, X17, X18, X19, X20, X21, X22, X23, X24, X25, X2...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 96 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (23): X2, X3, X4, X5, X6, X7, X8, X10, X11, X12, X13, X54, X55, X56, X57...
+lgl (81): X9, X14, X15, X16, X17, X18, X19, X20, X21, X22, X23, X24, X25, X2...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+[1] 0
+[main ea77355] auto merge data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 62 insertions(+)
+ rewrite data/merged_buoy_data.rda (80%)
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   a2707c6..ea77355  main -> main
+[1] 0
