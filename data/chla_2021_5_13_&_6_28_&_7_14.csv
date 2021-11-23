@@ -60,21 +60,4 @@ SAMPLE-058,380.63,RFU,shubeal,4,int,2,chla_rfu,14,7,2021,250,G04
 SAMPLE-059,500.53,RFU,shubeal,b,int,1,chla_rfu,14,7,2021,250,G04
 SAMPLE-060,464.94,RFU,shubeal,b,int,2,chla_rfu,14,7,2021,250,G04
 SAMPLE-061,473.22,RFU,shubeal,b,int,3,chla_rfu,14,7,2021,250,G04
-SAMPLE-062,0.23,RFU,yawgoo,blank,int,1,blank,16,6,2021,na,G04
-SAMPLE-063,0.27,RFU,yawgoo,blank,int,2,blank,16,6,2021,na,G04
-SAMPLE-064,291.76,RFU,yawgoo,1,int,1,chla_rfu,16,6,2021,300,G04
-SAMPLE-065,299.33,RFU,yawgoo,1,int,2,chla_rfu,16,6,2021,300,G04
-SAMPLE-066,327.68,RFU,yawgoo,2,int,1,chla_rfu,16,6,2021,300,G04
-SAMPLE-067,317.39,RFU,yawgoo,2,int,2,chla_rfu,16,6,2021,300,G04
-SAMPLE-068,270.13,RFU,yawgoo,3,int,1,chla_rfu,16,6,2021,300,G04
-SAMPLE-069,283.49,RFU,yawgoo,3,int,2,chla_rfu,16,6,2021,300,G04
-SAMPLE-070,325.81,RFU,yawgoo,4,int,1,chla_rfu,16,6,2021,300,G04
-SAMPLE-071,301.8,RFU,yawgoo,4,int,2,chla_rfu,16,6,2021,300,G04
-SAMPLE-072,321.63,RFU,yawgoo,5,int,1,chla_rfu,16,6,2021,300,G04
-SAMPLE-073,313.77,RFU,yawgoo,5,int,2,chla_rfu,16,6,2021,300,G04
-SAMPLE-074,283.83,RFU,yawgoo,6,int,1,chla_rfu,16,6,2021,300,G04
-SAMPLE-075,274.31,RFU,yawgoo,6,int,2,chla_rfu,16,6,2021,300,G04
-SAMPLE-076,323.52,RFU,yawgoo,p,int,1,chla_rfu,16,6,2021,300,G04
-SAMPLE-077,321.36,RFU,yawgoo,p,int,2,chla_rfu,16,6,2021,300,G04
-SAMPLE-078,329.03,RFU,yawgoo,p,int,3,chla_rfu,16,6,2021,300,G04
 SAMPLE-079,156.83,RFU,na,solid std,na,na,chla_rfu,25,8,2021,na,G04

@@ -1,0 +1,29 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol,fluorometer
+SAMPLE-001,132.2,RFU,na,solid std,na,na,phyco_rfu,4,11,2021,na,G04
+SAMPLE-037,0.14,RFU,shubael,blank,int,1,blank,29,7,2021,na,G04
+SAMPLE-038,0.06,RFU,shubael,blank,int,2,blank,29,7,2021,na,G04
+SAMPLE-039,208.68,RFU,shubael,1,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-040,197.12,RFU,shubael,1,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-041,192.7,RFU,shubael,2,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-042,197.18,RFU,shubael,2,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-043,244.11,RFU,shubael,3,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-044,205.13,RFU,shubael,3,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-045,194.17,RFU,shubael,4,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-046,151.72,RFU,shubael,4,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-047,191.07,RFU,shubael,b,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-048,202.22,RFU,shubael,b,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-049,180.8,RFU,shubael,b,int,3,phyco_rfu,29,7,2021,250,G04
+SAMPLE-050,0.16,RFU,hamblin,blank,int,1,blank,29,7,2021,na,G04
+SAMPLE-051,0.19,RFU,hamblin,blank,int,2,blank,29,7,2021,na,G04
+SAMPLE-052,121.92,RFU,hamblin,1,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-053,115.83,RFU,hamblin,1,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-054,135.37,RFU,hamblin,2,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-055,129.15,RFU,hamblin,2,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-056,125.67,RFU,hamblin,3,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-057,120.86,RFU,hamblin,3,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-058,99.73,RFU,hamblin,4,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-059,95.76,RFU,hamblin,4,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-060,127.23,RFU,hamblin,b,int,1,phyco_rfu,29,7,2021,250,G04
+SAMPLE-061,121.02,RFU,hamblin,b,int,2,phyco_rfu,29,7,2021,250,G04
+SAMPLE-062,128.63,RFU,hamblin,b,int,3,phyco_rfu,29,7,2021,250,G04
+SAMPLE-063,130.92,RFU,na,solid std,na,na,phyco_rfu,4,11,2021,na,G04
