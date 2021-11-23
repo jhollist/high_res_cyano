@@ -4026,3 +4026,54 @@ To https://github.com/jhollist/high_res_cyano
    ea77355..fe16b90  main -> main
 [1] 0
 here() starts at C:/Windows/System32
+From https://github.com/jhollist/high_res_cyano
+   10ecb76..fcaa450  main       -> origin/main
+Updating 10ecb76..fcaa450
+Fast-forward
+ chla_2021_5_13_&_6_28_&_7_14.csv                   |  80 --------------
+ data/chla_2021_5_13_&_6_28_&_7_14.csv              |  17 ---
+ data/chla_2021_7_29.csv                            |  29 +++++
+ data/chla_2021_8_11_&_31_&_9_15_&_10_13_&_11_4.csv | 117 +++++++++++++++++++++
+ data/phyco_2021_06_28.csv                          |  29 +++++
+ data/phyco_2021_07_14_&_29.csv                     |  55 ++++++++++
+ data/phyco_2021_08_11_&_31.csv                     |  55 ++++++++++
+ 7 files changed, 285 insertions(+), 97 deletions(-)
+ delete mode 100644 chla_2021_5_13_&_6_28_&_7_14.csv
+ create mode 100644 data/chla_2021_7_29.csv
+ create mode 100644 data/chla_2021_8_11_&_31_&_9_15_&_10_13_&_11_4.csv
+ create mode 100644 data/phyco_2021_06_28.csv
+ create mode 100644 data/phyco_2021_07_14_&_29.csv
+ create mode 100644 data/phyco_2021_08_11_&_31.csv
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-22-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-23-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 5d4f72b] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 358 insertions(+)
+ create mode 100644 data/buoys/data_report_11-22-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-23-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   fcaa450..5d4f72b  main -> main
+[1] 0
