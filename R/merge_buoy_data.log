@@ -10353,3 +10353,54 @@ package 'readr' was built under R version 4.1.1
 Warning message:
 package 'tidyr' was built under R version 4.1.1 
 here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+[1] 0
+[main abfe5b6] auto merge data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 203 insertions(+)
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   b9d7808..abfe5b6  main -> main
+[1] 0
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'readr' was built under R version 4.1.1 
+Warning message:
+package 'tidyr' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
