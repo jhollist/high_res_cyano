@@ -10826,3 +10826,175 @@ Backtrace:
  27.                                 \-vctrs:::stop_subscript_oob(...)
  28.                                   \-vctrs:::stop_subscript(...)
 Execution halted
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'readr' was built under R version 4.1.1 
+Warning message:
+package 'tidyr' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 96 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (12): X54, X55, X56, X57, X58, X59, X60, X61, X62, X63, X64, X65
+lgl (92): X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 96 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (12): X54, X55, X56, X57, X58, X59, X60, X61, X62, X63, X64, X65
+lgl (92): X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 96 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (12): X54, X55, X56, X57, X58, X59, X60, X61, X62, X63, X64, X65
+lgl (92): X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 70 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (12): X54, X55, X56, X57, X58, X59, X60, X61, X62, X63, X64, X65
+lgl (92): X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 93 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (12): X54, X55, X56, X57, X58, X59, X60, X61, X62, X63, X64, X65
+lgl (92): X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (105): X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 81 Columns: 105
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (1): X1
+dbl (12): X54, X55, X56, X57, X58, X59, X60, X61, X62, X63, X64, X65
+lgl (92): X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16,...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 3 Columns: 5
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (5): X1, X2, X3, X4, X5
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 1712248 Columns: 5
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr  (3): X1, X3, X4
+dbl  (1): X5
+dttm (1): X2
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Error: Can't subset columns that don't exist.
+x Column `processor power` doesn't exist.
+Backtrace:
+     x
+  1. +-map_df(files, clean_buoy_data) %>% unique()
+  2. +-base::unique(.)
+  3. \-purrr::map_df(files, clean_buoy_data)
+  4.   \-purrr::map(.x, .f, ...)
+  5.     \-global::.f(.x[[i]], ...)
+  6.       +-tidyr::pivot_longer(buoy_data, cols = "processor power":"roll")
+  7.       \-tidyr:::pivot_longer.data.frame(buoy_data, cols = "processor power":"roll")
+  8.         \-tidyr::build_longer_spec(...)
+  9.           \-tidyselect::eval_select(enquo(cols), data[unique(names(data))])
+ 10.             \-tidyselect:::eval_select_impl(...)
+ 11.               +-tidyselect:::with_subscript_errors(...)
+ 12.               | +-base::tryCatch(...)
+ 13.               | | \-base:::tryCatchList(expr, classes, parentenv, handlers)
+ 14.               | |   \-base:::tryCatchOne(expr, names, parentenv, handlers[[1L]])
+ 15.               | |     \-base:::doTryCatch(return(expr), name, parentenv, handler)
+ 16.               | \-tidyselect:::instrument_base_errors(expr)
+ 17.               |   \-base::withCallingHandlers(...)
+ 18.               \-tidyselect:::vars_select_eval(...)
+ 19.                 \-tidyselect:::walk_data_tree(expr, data_mask, context_mask)
+ 20.                   \-tidyselect:::eval_colon(expr, data_mask, context_mask)
+ 21.                     \-tidyselect:::walk_data_tree(...)
+ 22.                       \-tidyselect:::as_indices_sel_impl(...)
+ 23.                         \-tidyselect:::as_indices_impl(x, vars, strict = strict)
+ 24.                           \-tidyselect:::chr_as_locations(x, vars)
+ 25.                             \-vctrs::vec_as_location(x, n = length(vars), names = vars)
+ 26.                               \-(function () ...
+ 27.                                 \-vctrs:::stop_subscript_oob(...)
+ 28.                                   \-vctrs:::stop_subscript(...)
+Execution halted
