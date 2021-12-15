@@ -2088,3 +2088,2441 @@ Already up to date.
 Error in function (type, msg, asError = TRUE)  : Authentication failure
 Calls: <Anonymous> -> curlPerform -> <Anonymous> -> fun
 Execution halted
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+Error in function (type, msg, asError = TRUE)  : Authentication failure
+Calls: <Anonymous> -> curlPerform -> <Anonymous> -> fun
+Execution halted
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+Error in function (type, msg, asError = TRUE)  : Authentication failure
+Calls: <Anonymous> -> curlPerform -> <Anonymous> -> fun
+Execution halted
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-14-2021_18-01-05.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-15-2021_06-01-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-15-2021_18-01-05.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-16-2021_06-00-09.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 2f71d9c] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 419 insertions(+)
+ create mode 100644 data/buoys/data_report_09-14-2021_18-01-05.csv
+ create mode 100644 data/buoys/data_report_09-15-2021_06-01-08.csv
+ create mode 100644 data/buoys/data_report_09-15-2021_18-01-05.csv
+ create mode 100644 data/buoys/data_report_09-16-2021_06-00-09.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   72c6daf..2f71d9c  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-16-2021_18-00-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-17-2021_06-00-09.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main b05009a] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 375 insertions(+)
+ create mode 100644 data/buoys/data_report_09-16-2021_18-00-08.csv
+ create mode 100644 data/buoys/data_report_09-17-2021_06-00-09.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   fac4343..b05009a  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-17-2021_18-01-06.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-18-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-18-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-19-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-19-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-20-2021_06-01-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 34c4066] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 699 insertions(+)
+ create mode 100644 data/buoys/data_report_09-17-2021_18-01-06.csv
+ create mode 100644 data/buoys/data_report_09-18-2021_06-01-13.csv
+ create mode 100644 data/buoys/data_report_09-18-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_09-19-2021_06-01-13.csv
+ create mode 100644 data/buoys/data_report_09-19-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_09-20-2021_06-01-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   4c687f3..34c4066  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-20-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-21-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0e62b9b] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 405 insertions(+)
+ create mode 100644 data/buoys/data_report_09-20-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_09-21-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   8360cdc..0e62b9b  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-21-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-22-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main a80d40d] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 341 insertions(+)
+ create mode 100644 data/buoys/data_report_09-21-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_09-22-2021_06-01-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   534315a..a80d40d  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-22-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-23-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main da64001] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 341 insertions(+)
+ create mode 100644 data/buoys/data_report_09-22-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_09-23-2021_06-01-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   090674c..da64001  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+fatal: unable to access 'https://github.com/jhollist/high_res_cyano/': Could not resolve host: github.com
+[1] 1
+Error in function (type, msg, asError = TRUE)  : 
+  Could not resolve host: newftp.epa.gov
+Calls: <Anonymous> -> curlPerform -> <Anonymous> -> fun
+Execution halted
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-23-2021_18-00-14.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-24-2021_06-01-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-24-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-25-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-25-2021_18-01-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-26-2021_06-00-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 156b2ea] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 699 insertions(+)
+ create mode 100644 data/buoys/data_report_09-23-2021_18-00-14.csv
+ create mode 100644 data/buoys/data_report_09-24-2021_06-01-12.csv
+ create mode 100644 data/buoys/data_report_09-24-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_09-25-2021_06-00-15.csv
+ create mode 100644 data/buoys/data_report_09-25-2021_18-01-08.csv
+ create mode 100644 data/buoys/data_report_09-26-2021_06-00-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   dd8d9d4..156b2ea  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-26-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-27-2021_06-00-18.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main aa0e406] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 407 insertions(+)
+ create mode 100644 data/buoys/data_report_09-26-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_09-27-2021_06-00-18.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   981a09a..aa0e406  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-27-2021_18-01-07.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-28-2021_06-01-10.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main b8514ef] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 341 insertions(+)
+ create mode 100644 data/buoys/data_report_09-27-2021_18-01-07.csv
+ create mode 100644 data/buoys/data_report_09-28-2021_06-01-10.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   1857599..b8514ef  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-28-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-29-2021_06-00-11.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 4bd8eba] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 342 insertions(+)
+ create mode 100644 data/buoys/data_report_09-28-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_09-29-2021_06-00-11.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   203d1a7..4bd8eba  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-29-2021_18-01-07.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-30-2021_06-00-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main a9af61e] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 341 insertions(+)
+ create mode 100644 data/buoys/data_report_09-29-2021_18-01-07.csv
+ create mode 100644 data/buoys/data_report_09-30-2021_06-00-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   a7a5fff..a9af61e  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_09-30-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-01-2021_06-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-01-2021_18-01-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-02-2021_06-00-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 3b8a1ef] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 505 insertions(+)
+ create mode 100644 data/buoys/data_report_09-30-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_10-01-2021_06-00-11.csv
+ create mode 100644 data/buoys/data_report_10-01-2021_18-01-08.csv
+ create mode 100644 data/buoys/data_report_10-02-2021_06-00-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   9bdcd18..3b8a1ef  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-02-2021_18-00-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-03-2021_06-00-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 3ad3999] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 375 insertions(+)
+ create mode 100644 data/buoys/data_report_10-02-2021_18-00-08.csv
+ create mode 100644 data/buoys/data_report_10-03-2021_06-00-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   bed6964..3ad3999  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-03-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-04-2021_06-00-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main ae61403] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-03-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_10-04-2021_06-00-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   4fa7fcb..ae61403  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-04-2021_18-00-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-05-2021_06-01-10.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main c36a223] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-04-2021_18-00-08.csv
+ create mode 100644 data/buoys/data_report_10-05-2021_06-01-10.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   d4c0d1b..c36a223  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-05-2021_18-00-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-06-2021_06-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-06-2021_18-01-07.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-07-2021_06-01-10.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 9fc1611] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 505 insertions(+)
+ create mode 100644 data/buoys/data_report_10-05-2021_18-00-08.csv
+ create mode 100644 data/buoys/data_report_10-06-2021_06-00-11.csv
+ create mode 100644 data/buoys/data_report_10-06-2021_18-01-07.csv
+ create mode 100644 data/buoys/data_report_10-07-2021_06-01-10.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   2728cb4..9fc1611  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-07-2021_18-01-07.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-08-2021_06-01-09.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 22d2afe] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 377 insertions(+)
+ create mode 100644 data/buoys/data_report_10-07-2021_18-01-07.csv
+ create mode 100644 data/buoys/data_report_10-08-2021_06-01-09.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   c824981..22d2afe  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-08-2021_18-00-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-09-2021_06-00-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 9e1e2eb] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-08-2021_18-00-08.csv
+ create mode 100644 data/buoys/data_report_10-09-2021_06-00-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   6d800f5..9e1e2eb  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-09-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-10-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-10-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-11-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-11-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-12-2021_06-00-14.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-12-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-13-2021_06-00-14.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-13-2021_18-01-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-14-2021_06-00-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 2fa2f11] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 13 files changed, 1179 insertions(+)
+ create mode 100644 data/buoys/data_report_10-09-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_10-10-2021_06-00-15.csv
+ create mode 100644 data/buoys/data_report_10-10-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-11-2021_06-01-14.csv
+ create mode 100644 data/buoys/data_report_10-11-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-12-2021_06-00-14.csv
+ create mode 100644 data/buoys/data_report_10-12-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-13-2021_06-00-14.csv
+ create mode 100644 data/buoys/data_report_10-13-2021_18-01-12.csv
+ create mode 100644 data/buoys/data_report_10-14-2021_06-00-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   913e7fd..2fa2f11  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-14-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-15-2021_06-00-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0a2eff4] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 473 insertions(+)
+ create mode 100644 data/buoys/data_report_10-14-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_10-15-2021_06-00-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   dbc002b..0a2eff4  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-15-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-16-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main ccd8e24] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-15-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_10-16-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   e2d7635..ccd8e24  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-16-2021_18-01-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-17-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 327a6f0] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-16-2021_18-01-08.csv
+ create mode 100644 data/buoys/data_report_10-17-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   8cd6ae3..327a6f0  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-17-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-18-2021_06-00-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 287bf32] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-17-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-18-2021_06-00-13.csv
+ rename pictures/field_pics/{IMG_20180620_111029800.jpg => jeff_sippy.jpg} (100%)
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   7890794..287bf32  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-18-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-19-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 546949d] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 344 insertions(+)
+ create mode 100644 data/buoys/data_report_10-18-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_10-19-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   8241825..546949d  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-19-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-20-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 446884d] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-19-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-20-2021_06-01-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   be65ba9..446884d  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-20-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-21-2021_06-00-18.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 14c2981] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 345 insertions(+)
+ create mode 100644 data/buoys/data_report_10-20-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_10-21-2021_06-00-18.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   97129c9..14c2981  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-21-2021_18-00-13.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-22-2021_06-00-17.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main a649237] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-21-2021_18-00-13.csv
+ create mode 100644 data/buoys/data_report_10-22-2021_06-00-17.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   124aea7..a649237  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-22-2021_18-00-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-23-2021_06-00-17.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main fa40878] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 345 insertions(+)
+ create mode 100644 data/buoys/data_report_10-22-2021_18-00-09.csv
+ create mode 100644 data/buoys/data_report_10-23-2021_06-00-17.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   4702843..fa40878  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-23-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-24-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 9ce7d3b] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-23-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_10-24-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   2fd123d..9ce7d3b  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-24-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-25-2021_06-00-17.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 52c046f] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-24-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-25-2021_06-00-17.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   85b5cae..52c046f  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-25-2021_18-01-07.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-26-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 02345ba] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 345 insertions(+)
+ create mode 100644 data/buoys/data_report_10-25-2021_18-01-07.csv
+ create mode 100644 data/buoys/data_report_10-26-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   48f4cc2..02345ba  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-26-2021_18-00-07.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-27-2021_06-01-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-27-2021_18-00-08.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-28-2021_06-01-11.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 5709a3e] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 539 insertions(+)
+ create mode 100644 data/buoys/data_report_10-26-2021_18-00-07.csv
+ create mode 100644 data/buoys/data_report_10-27-2021_06-01-12.csv
+ create mode 100644 data/buoys/data_report_10-27-2021_18-00-08.csv
+ create mode 100644 data/buoys/data_report_10-28-2021_06-01-11.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   1a0e5ce..5709a3e  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-28-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-29-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 564ef32] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 307 insertions(+)
+ create mode 100644 data/buoys/data_report_10-28-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-29-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   9244d42..564ef32  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-29-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-30-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 3043099] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_10-29-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_10-30-2021_06-01-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   6c5e832..3043099  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-30-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-31-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_10-31-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-01-2021_06-00-17.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 1090275] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 539 insertions(+)
+ create mode 100644 data/buoys/data_report_10-30-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_10-31-2021_06-01-14.csv
+ create mode 100644 data/buoys/data_report_10-31-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-01-2021_06-00-17.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   ed57e6a..1090275  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-01-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-02-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 2ac45a3] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 375 insertions(+)
+ create mode 100644 data/buoys/data_report_11-01-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-02-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   32a5155..2ac45a3  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-02-2021_18-00-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-03-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main f000637] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 345 insertions(+)
+ create mode 100644 data/buoys/data_report_11-02-2021_18-00-12.csv
+ create mode 100644 data/buoys/data_report_11-03-2021_06-01-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   fb6863b..f000637  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-03-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-04-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 4193787] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 345 insertions(+)
+ create mode 100644 data/buoys/data_report_11-03-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_11-04-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   ddb7379..4193787  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-04-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-05-2021_06-01-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 29f22c9] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 345 insertions(+)
+ create mode 100644 data/buoys/data_report_11-04-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_11-05-2021_06-01-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   15a5f1b..29f22c9  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-05-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-06-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-06-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-07-2021_06-01-14.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 02d2d4e] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 884 insertions(+)
+ create mode 100644 data/buoys/data_report_11-05-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-06-2021_06-00-15.csv
+ create mode 100644 data/buoys/data_report_11-06-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-07-2021_06-01-14.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   0b100df..02d2d4e  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-07-2021_18-00-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-08-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 2ce5106] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 383 insertions(+)
+ create mode 100644 data/buoys/data_report_11-07-2021_18-00-10.csv
+ create mode 100644 data/buoys/data_report_11-08-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   ce8c707..2ce5106  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-08-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 265e288] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 253 insertions(+)
+ create mode 100644 data/buoys/data_report_11-08-2021_18-01-09.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   be55d80..265e288  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-09-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-10-2021_06-00-18.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main a1af6cf] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 329 insertions(+)
+ create mode 100644 data/buoys/data_report_11-09-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-10-2021_06-00-18.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   fcb0452..a1af6cf  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-10-2021_18-01-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-11-2021_06-01-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 871dbbe] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 345 insertions(+)
+ create mode 100644 data/buoys/data_report_11-10-2021_18-01-11.csv
+ create mode 100644 data/buoys/data_report_11-11-2021_06-01-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   d577f57..871dbbe  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-11-2021_18-01-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-12-2021_06-00-18.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 24b14fb] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 344 insertions(+)
+ create mode 100644 data/buoys/data_report_11-11-2021_18-01-10.csv
+ create mode 100644 data/buoys/data_report_11-12-2021_06-00-18.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   688ff96..24b14fb  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-12-2021_18-01-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-13-2021_06-01-15.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-13-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-14-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-14-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 61c7dc2] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 602 insertions(+)
+ create mode 100644 data/buoys/data_report_11-12-2021_18-01-10.csv
+ create mode 100644 data/buoys/data_report_11-13-2021_06-01-15.csv
+ create mode 100644 data/buoys/data_report_11-13-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_11-14-2021_06-00-15.csv
+ create mode 100644 data/buoys/data_report_11-14-2021_18-01-09.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   b58d300..61c7dc2  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-15-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-15-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-16-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main a138b5d] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 406 insertions(+)
+ create mode 100644 data/buoys/data_report_11-15-2021_06-01-13.csv
+ create mode 100644 data/buoys/data_report_11-15-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_11-16-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   4c29b44..a138b5d  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-16-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-17-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main cf4c941] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 358 insertions(+)
+ create mode 100644 data/buoys/data_report_11-16-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-17-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   1563f2e..cf4c941  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-17-2021_18-00-17.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-18-2021_06-00-17.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main c1c96bf] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_11-17-2021_18-00-17.csv
+ create mode 100644 data/buoys/data_report_11-18-2021_06-00-17.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   c3cc65c..c1c96bf  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-18-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-19-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 3799351] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 343 insertions(+)
+ create mode 100644 data/buoys/data_report_11-18-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-19-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   4727602..3799351  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-19-2021_18-01-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-20-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-20-2021_18-01-10.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main a2707c6] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 441 insertions(+)
+ create mode 100644 data/buoys/data_report_11-19-2021_18-01-10.csv
+ create mode 100644 data/buoys/data_report_11-20-2021_06-00-16.csv
+ create mode 100644 data/buoys/data_report_11-20-2021_18-01-10.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   2286f05..a2707c6  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-21-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-21-2021_18-00-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-22-2021_06-00-17.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main fe16b90] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 456 insertions(+)
+ create mode 100644 data/buoys/data_report_11-21-2021_06-01-13.csv
+ create mode 100644 data/buoys/data_report_11-21-2021_18-00-12.csv
+ create mode 100644 data/buoys/data_report_11-22-2021_06-00-17.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   ea77355..fe16b90  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+From https://github.com/jhollist/high_res_cyano
+   10ecb76..fcaa450  main       -> origin/main
+Updating 10ecb76..fcaa450
+Fast-forward
+ chla_2021_5_13_&_6_28_&_7_14.csv                   |  80 --------------
+ data/chla_2021_5_13_&_6_28_&_7_14.csv              |  17 ---
+ data/chla_2021_7_29.csv                            |  29 +++++
+ data/chla_2021_8_11_&_31_&_9_15_&_10_13_&_11_4.csv | 117 +++++++++++++++++++++
+ data/phyco_2021_06_28.csv                          |  29 +++++
+ data/phyco_2021_07_14_&_29.csv                     |  55 ++++++++++
+ data/phyco_2021_08_11_&_31.csv                     |  55 ++++++++++
+ 7 files changed, 285 insertions(+), 97 deletions(-)
+ delete mode 100644 chla_2021_5_13_&_6_28_&_7_14.csv
+ create mode 100644 data/chla_2021_7_29.csv
+ create mode 100644 data/chla_2021_8_11_&_31_&_9_15_&_10_13_&_11_4.csv
+ create mode 100644 data/phyco_2021_06_28.csv
+ create mode 100644 data/phyco_2021_07_14_&_29.csv
+ create mode 100644 data/phyco_2021_08_11_&_31.csv
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-22-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-23-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 5d4f72b] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 358 insertions(+)
+ create mode 100644 data/buoys/data_report_11-22-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-23-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   fcaa450..5d4f72b  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-23-2021_18-01-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-24-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main a4f5762] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 342 insertions(+)
+ create mode 100644 data/buoys/data_report_11-23-2021_18-01-12.csv
+ create mode 100644 data/buoys/data_report_11-24-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   4bebb55..a4f5762  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-24-2021_18-01-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-25-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main b5fd373] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 344 insertions(+)
+ create mode 100644 data/buoys/data_report_11-24-2021_18-01-10.csv
+ create mode 100644 data/buoys/data_report_11-25-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   a06624b..b5fd373  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-25-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-26-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 6e691bd] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 232 insertions(+)
+ create mode 100644 data/buoys/data_report_11-25-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-26-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   b5fd373..6e691bd  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-26-2021_18-00-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-27-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-27-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-28-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-28-2021_18-00-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-29-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main fc82361] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 701 insertions(+)
+ create mode 100644 data/buoys/data_report_11-26-2021_18-00-12.csv
+ create mode 100644 data/buoys/data_report_11-27-2021_06-00-15.csv
+ create mode 100644 data/buoys/data_report_11-27-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_11-28-2021_06-00-15.csv
+ create mode 100644 data/buoys/data_report_11-28-2021_18-00-12.csv
+ create mode 100644 data/buoys/data_report_11-29-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   9dd2593..fc82361  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-29-2021_18-01-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-30-2021_06-01-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 21946a6] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 407 insertions(+)
+ create mode 100644 data/buoys/data_report_11-29-2021_18-01-12.csv
+ create mode 100644 data/buoys/data_report_11-30-2021_06-01-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   6b973b0..21946a6  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_11-30-2021_18-01-09.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-01-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/test.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 95092dd] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1712651 insertions(+)
+ create mode 100644 data/buoys/data_report_11-30-2021_18-01-09.csv
+ create mode 100644 data/buoys/data_report_12-01-2021_06-00-16.csv
+ create mode 100644 data/buoys/test.csv
+[1] 0
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File data/buoys/test.csv is 83.66 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/jhollist/high_res_cyano
+   21946a6..95092dd  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-01-2021_18-01-10.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-02-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 21e60de] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 446 insertions(+)
+ create mode 100644 data/buoys/data_report_12-01-2021_18-01-10.csv
+ create mode 100644 data/buoys/data_report_12-02-2021_06-00-16.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   95092dd..21e60de  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-02-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-02-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-03-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 88d1acb] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 459 insertions(+)
+ create mode 100644 data/buoys/data_report_12-02-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_12-03-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   21e60de..88d1acb  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-03-2021_18-00-13.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-04-2021_06-00-16.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-04-2021_18-01-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-05-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-05-2021_18-00-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-06-2021_06-00-15.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 234b90e] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 810 insertions(+)
+ create mode 100644 data/buoys/data_report_12-03-2021_18-00-13.csv
+ create mode 100644 data/buoys/data_report_12-04-2021_06-00-16.csv
+ create mode 100644 data/buoys/data_report_12-04-2021_18-01-11.csv
+ create mode 100644 data/buoys/data_report_12-05-2021_06-01-13.csv
+ create mode 100644 data/buoys/data_report_12-05-2021_18-00-12.csv
+ create mode 100644 data/buoys/data_report_12-06-2021_06-00-15.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   88d1acb..234b90e  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-06-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-07-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0827350] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 576 insertions(+)
+ create mode 100644 data/buoys/data_report_12-06-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_12-07-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   234b90e..0827350  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-07-2021_18-00-11.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-08-2021_06-01-13.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 9d165d6] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 618 insertions(+)
+ create mode 100644 data/buoys/data_report_12-07-2021_18-00-11.csv
+ create mode 100644 data/buoys/data_report_12-08-2021_06-01-13.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   0827350..9d165d6  main -> main
+[1] 0
+here() starts at C:/Windows/System32
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R/dashboard_figures.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/merge_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in R/pull_buoy_data.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-08-2021_18-00-12.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/buoys/data_report_12-09-2021_06-01-12.csv.
+The file will have its original line endings in your working directory
+[1] 0
+[main 8da9bb0] auto download data files
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 635 insertions(+)
+ create mode 100644 data/buoys/data_report_12-08-2021_18-00-12.csv
+ create mode 100644 data/buoys/data_report_12-09-2021_06-01-12.csv
+[1] 0
+To https://github.com/jhollist/high_res_cyano
+   9d165d6..8da9bb0  main -> main
+[1] 0
+here() starts at C:/Windows/System32
