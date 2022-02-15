@@ -20,6 +20,7 @@ extracted <- bind_rows(phyco_data, chla_data) %>%
                                TRUE ~ waterbody))
 write_csv(extracted, here("data/extracted_2021.csv"))
 
+extracted <- read_csv(here("data/extracted_2021.csv"))
 extracted %>% 
   filter(units == "µg/L") %>%
   ggplot(aes(x = date, y = value)) +
