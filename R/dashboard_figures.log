@@ -11556,3 +11556,2128 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jhollist/cc_buoys
    1830c92..9d68d7f  main -> main
 [1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 6ab644c] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   9d68d7f..6ab644c  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 844444b] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   6ab644c..844444b  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 3af0962] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   844444b..3af0962  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0646c98] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   3af0962..0646c98  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 677375e] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   0646c98..677375e  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 748fc73] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   677375e..748fc73  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 317941d] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   748fc73..317941d  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main c07dc6a] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   317941d..c07dc6a  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main ab6ab75] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   c07dc6a..ab6ab75  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 743a5d8] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   ab6ab75..743a5d8  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 3ea0c36] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   743a5d8..3ea0c36  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main b4e916a] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   3ea0c36..b4e916a  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 70a8a9f] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   b4e916a..70a8a9f  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0c5a26f] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   70a8a9f..0c5a26f  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 5aa07d3] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   0c5a26f..5aa07d3  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main f597147] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   5aa07d3..f597147  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 1ff4cc8] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   f597147..1ff4cc8  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 029f5bb] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   1ff4cc8..029f5bb  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 9d2a44a] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   029f5bb..9d2a44a  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 39273f2] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   9d2a44a..39273f2  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main c69dd5c] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   39273f2..c69dd5c  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 1c79a53] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   c69dd5c..1c79a53  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0aa8d5c] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   1c79a53..0aa8d5c  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main 0629269] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   0aa8d5c..0629269  main -> main
+[1] 0
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'lubridate'
+
+The following objects are masked from 'package:base':
+
+    date, intersect, setdiff, union
+
+Warning message:
+package 'lubridate' was built under R version 4.1.1 
+here() starts at C:/Windows/System32
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+Already up to date.
+[1] 0
+`summarise()` has grouped output by 'waterbody', 'date_hour'. You can override using the `.groups` argument.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/css/crosstalk.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.js.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/js/crosstalk.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/crosstalk-1.2.0/scss/crosstalk.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/htmlwidgets-1.5.4/htmlwidgets.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery-AUTHORS.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/jquery-3.5.1/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-binding-4.9.4/plotly.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-htmlwidgets-css-1.57.1/plotly-htmlwidgets.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index_files/plotly-main-1.57.1/plotly-latest.min.js.
+The file will have its original line endings in your working directory
+[1] 0
+[main d0fde88] auto build
+ Committer: Hollister <Hollister.Jeff@epa.gov>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[1] 0
+To https://github.com/jhollist/cc_buoys
+   0629269..d0fde88  main -> main
+[1] 0
