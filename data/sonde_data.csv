@@ -1149,3 +1149,9 @@ day,month,year,waterbody,site,depth,reps,variable,value
 31,8,2021,hamblin,b,18,1,ph,6.23
 31,8,2021,hamblin,b,20,1,ph,6.2
 31,8,2021,hamblin,b,int,1,secchi,6.5
+15,9,2021,shubael,b,int,1,secchi,4
+15,9,2021,hamblin,b,int,1,secchi,6
+13,10,2021,shubael,b,int,1,secchi,3.55
+13,10,2021,hamblin,b,int,1,secchi,7
+4,11,2021,shubael,b,int,1,secchi,2.5
+4,11,2021,hamblin,b,int,1,secchi,6.5
