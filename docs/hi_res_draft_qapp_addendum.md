@@ -12,13 +12,37 @@ There are several data sources associated with this project and we plan to make 
   - Parameters: nitrate, water temperature, pH, specific conductivity, dissolved oxygen, turbidity, chlorophyll, phycocyanin, fdom, barometric pressure, air temperature, wind direction, wind speed
 - Fast Limnological Automated Measurements (FLAMe):  The FLAMe is an on-board flowthrough system that provides detailed spatial data of the same water quality parameters that are measured by the water quality buoys.  We follow a pre-determined grid within the waterbody and take a measurement of each parameter every 1 second, except for nitrate which is measured every 10 seconds.  Location data are corrected based on the overall FLAMe residence time and sensor response time.
   - Parameters: nitrate, water temperature, pH, specific conductivity, dissolved oxygen, turbidity, chlorophyll, phycocyanin, fdom
-- EXO2 sonde data: At five locations within each waterbody, the buoy location and at four littoral locations, we also collect data from a hand-held EXO2 multi-parameter sonde.  These data provide information on possible drift in the buoy measurements and serve as a check for the FLAMe measurements.  The same paramters are measured; however, nitrate is measured with a different sensor than on the FLAMe and buoy, the YSI nitra LED.
+- EXO2 sonde data: At five locations within each waterbody, the buoy location and at four littoral locations, we also collect data from a hand-held EXO2 multi-parameter sonde.  These data provide information on possible drift in the buoy measurements and serve as a check for the FLAMe measurements.  The same parameters are measured; however, nitrate is measured with a different sensor than on the FLAMe and buoy, the YSI nitra LED.
   - Parameters: nitrate, water temperature, pH, specific conductivity, dissolved oxygen, turbidity, chlorophyll, phycocyanin, fdom
 - Water quality grab samples:  Grab samples area also collected at the five locations where hand-held sonde data is collected.  Grab samples are used to validate and transform some of the sensor based measurements as well as for measuring other parameters that we are not able to measure with sensors.
   - Parameters: extracted chlorophyll, extracted phycocyanin, nutrients (dissolved and total), microcystin
 - Zooplankton and Phytoplankton: At the buoy site only, 150 and 50 µm plankton tows are performed to examing zooplankton, and whole water samples are used for phytoplankton
-  - Parameters: Genus level abundance for both zoo- and phyto-plankton. 
+  - Parameters: Genus level abundance for both zoo- and phytoplankton. 
 
 ## Quality control checks {#quality-control-checks}
+
+Quality assurance activities are detailed in the QAPP and all of these will be conducted (e.g. sensor calibration, duplicate samples, etc.) prior to provisional release of data.  Other quality control checks, such as outlier detection, are best used once a dataset is closer to completion and thus are not appropriate for provisional datasets.  Given that, there are many other checks, such as range checks, that can be applied automatically to provisional data.  The following table outlines, for each parameter, the automatic quality control checks that will be applied. ADD SOMETHING OUTLINING DIFF BETWEEN THE SENSOR DATA AND SAMPLE DATA WHICH WONT NEED AUTO CHECKS.
+
+|Parameter|Quality Control Check|
+|---------|---------------------|
+|nitrate||
+|water temperature||
+|pH||
+|specific conductivity||
+|dissolved oxygen||
+|turbidity||
+|chlorophyll||
+|phycocyanin||
+|fdom||
+|barometric pressure||
+|air temperature||
+|wind direction||
+|wind speed||
+|extracted chlorophyll||
+|extracted phycocyanin||
+|nutrients||
+|microcystin||
+|zooplankton abundance||
+|phytoplankton abundance||
 
 ## Data processing and accessibility procedures {#data-processing-and-accessibility-procedures}
