@@ -21,28 +21,57 @@ There are several data sources associated with this project and we plan to make 
 
 ## Quality control checks {#quality-control-checks}
 
-Quality assurance activities are detailed in the QAPP and all of these will be conducted (e.g. sensor calibration, duplicate samples, etc.) prior to provisional release of data.  Other quality control checks, such as outlier detection, are best used once a dataset is closer to completion and thus are not appropriate for provisional datasets.  Given that, there are many other checks, such as range checks, that can be applied automatically to provisional data.  The following table outlines, for each parameter, the automatic quality control checks that will be applied. ADD SOMETHING OUTLINING DIFF BETWEEN THE SENSOR DATA AND SAMPLE DATA WHICH WONT NEED AUTO CHECKS.
+Quality assurance activities are detailed in the QAPP and all of these will be conducted (e.g. sensor calibration, duplicate samples, etc.) prior to provisional release of data.  Other quality control checks, such as outlier detection, are best used once a dataset is closer to completion and thus are not appropriate for provisional datasets.  That being said, we do have past data, collected in similar systems, that provides reasonable ranges for each variable to be included in the provisional dataset.  Additionally some variables (e.g., wind direction and speed) have other values that can be used for an initial quality control screen and flag.  For most variables we flag values that are 25% greater than the prior measured maximum values or 25% less than the prior measured minimum values.  The values are listed in Table 1.
+
+**Table 1. Range check values for each collected parameter**
 
 |Parameter|Quality Control Check|
 |---------|---------------------|
-|nitrate||
-|water temperature||
-|pH||
-|specific conductivity||
-|dissolved oxygen||
-|turbidity||
-|chlorophyll||
-|phycocyanin||
-|fdom||
-|barometric pressure||
-|air temperature||
-|wind direction||
-|wind speed||
-|extracted chlorophyll||
-|extracted phycocyanin||
-|nutrients||
-|microcystin||
-|zooplankton abundance||
-|phytoplankton abundance||
+|nitrate (NICO/ecoN)|0 to past + 25%|
+|water temperature|0 to past + 25%|
+|pH|0 to 14|0 to past + 25%|
+|specific conductivity|0 to past + 25%|
+|dissolved oxygen concentration|0 to past + 25%|
+|dissolved oxygen saturation|0 to past + 25%|
+|turbidity|0 to past + 25%|
+|chlorophyll|0 to past + 25%|
+|phycocyanin|0 to past + 25%|
+|fdom|0 to past + 25%|
+|barometric pressure|0 to past + 25%|
+|air temperature|0 to past + 25%|
+|wind direction|0 to 360|
+|wind speed|0 to 150 (reasonable expectation)|
+|extracted chlorophyll|0 to past + 25%|
+|extracted phycocyanin|0 to past + 25%|
+|nutrients|0 to past + 25%|
+|microcystin|0 to past + 25%|
+|zooplankton abundance|NA|
+|phytoplankton abundance|NA|
 
-## Data processing and accessibility procedures {#data-processing-and-accessibility-procedures}
+## Data processing procedures {#data-processing-procedures}
+
+Data for this project are collected three ways: via telemetry from the buoys, direct download from the FLAMe, or recorded after lab processing and analysis.  Details for processing each provisional data stream are below:
+
+- Telemetry from buoys: The data buoys will measure every 15 minutes and send data to WQ Data Live (https://wqdatalive.com) via cellular telemetry.  A scheduled report will send data every 4 hours from WQ Data Live to a private folder on EPA's sftp site on GoAnywhere (https:://newftp.epa.gov).  The data on EPA's sftp will be retrieved, cleaned, and quality control checks (outlined above) applied every 4 hours via GitHub Actions and a series of R functions.  The GitHub Actions will be set to run on a private repository (USEPA/high_res_cyano) inside of EPA's Enterprise GitHub organization. Additionally, all data are stored on the buoys themselves and can be retrieved manually should these automated methods fail.
+- Direct download from FLAMe: Data from the FLAMe is transferred from the sensors to a Sutron SatLink data logger. A single FLAMe run collects all measurements every 10 second (or faster) and the location of the collection is also recorded.  After a FLAMe run, all data are downloaded to a USEPA field laptop.  These data will be checked for quality (see above) after collection with R functions.  The data will be added to the private repository (USEPA/high_res_cyano) inside of EPA's Enterprise GitHub organization.
+- Recorded after analysis: Extracted pigments, nutrients, microcystin, and plankton counts are all based off of water samples collected in the field and then subsequently analyze in the lab.  Details on QA/QC procedures for these variables are outline in QAPP-XX-XXXX and these procedures will be applied prior to any provisional release of these data.  In short, though, the procedures rely on direct download via a serial port from the devices for extracted pigments, nutrients, and microcystin.  The plankton samples are manually counted and recorded and added to a csv file on an EPA workstation.  These data are cleaned and combined with other project data and addedd to the private repository (USEPA/high_res_cyano) inside of EPA's Enterprise GitHub organization.
+
+## Data management {#data-management}
+
+All project data will be managed as a an Apache Arrow formatted columnar data file (https://arrow.apache.org/).  This format is cross-platform and provides efficient storage and read/write.  Changes to this file are managed via the git version control system and ccess to the data for project members are via a private repository (USEPA/high_res_cyano) inside of EPA's Enterprise GitHub organization. 
+
+The data file will be generated on a schedule from files committed to the repository.  Each file is provided in a unique format.  We will use a scheduled run, via GitHub Actions, to clean these files and reorganize them into a standard format.  All datasets will be combined into the single project data file.  The structure of this file is outlined in Table 2.
+
+**Table 2. Data file structure**
+
+|Field Name|Data Type|
+|----------|---------|
+|date||
+|time||
+|waterbody||
+|site
+
+
+
+
+## Open data access {#open-data-access}
