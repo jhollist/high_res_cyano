@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Provisional Data Access Addendum
 
 ## Introduction {#introduction}
@@ -60,18 +65,26 @@ Data for this project are collected three ways: via telemetry from the buoys, di
 
 All project data will be managed as a an Apache Arrow formatted columnar data file (https://arrow.apache.org/).  This format is cross-platform and provides efficient storage and read/write.  Changes to this file are managed via the git version control system and ccess to the data for project members are via a private repository (USEPA/high_res_cyano) inside of EPA's Enterprise GitHub organization. 
 
-The data file will be generated on a schedule from files committed to the repository.  Each file is provided in a unique format.  We will use a scheduled run, via GitHub Actions, to clean these files and reorganize them into a standard format.  All datasets will be combined into the single project data file.  The structure of this file is outlined in Table 2.
+The data file will be generated on a schedule from files committed to the repository.  Each of these files is provided in a unique format.  We will use a scheduled run, via GitHub Actions, to clean these files and reorganize them into a standard format.  All datasets will be combined into the single project data file.  The structure of this file is outlined in Table 2.  
 
 **Table 2. Data file structure**
 
-|Field Name|Data Type|
-|----------|---------|
-|date||
-|time||
-|waterbody||
-|site
+|Field Name|Data Type|Details|
+|----------|---------|----|
+|date|Date (ISO 8601)|The date data was collected|
+|time|Hours, Minutes, Seconds (hms)|The time data was collected|
+|waterbody|Character|Name of the waterbody|
+|site|Character|Site identifier within the waterbody |
+|depth|Numeric|The depth at which the data was collected|
+|field_dups|Numeric|Field duplicate identifier|
+|lab_reps|Numeric|Lab repition idenfitifer|
+|variable|Character|The name of the variable| 
+|units|Character|Units for the variable|
+|value|Numeric|The measured value|
+|notes|Character|Notes about the measurement, including QA Flags| 
 
-
-
+This is a long-data format and is incredibly flexible as it allows for adding new data streams without having to adjust the structure of the file.  Additionally, supplementary data (e.g. geographic coordinates, minimum detection limit, etc.) are easily linked with this data as each row represents a single sampling event.
 
 ## Open data access {#open-data-access}
+
+As data are collected, processed, and initial checks are run they will be added to the Apache Arrow file described above.  This file will then be converted to a .csv file and moved to a public repository within the USEPA Github Enterprise organization on a scheduled basis (frequency to-be-determined) via GitHub Actions.  This public repository will also contain a README file that provides a brief description of the data, a data dictionary, details on how to access the data, standard disclaimers, and a designation that the data are provisional and subject to change.  This repository will be made available with a Creative Commons Zero public domain desingation.
