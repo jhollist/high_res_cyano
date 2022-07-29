@@ -7,7 +7,7 @@ output:
 
 ## Introduction {#introduction}
 
-Research projects are often conducted in areas that are of high interest to a variety of stakeholders and they are often interested in seeing preliminary data and results as they come available (i.e. provisional) instead of at the end of a project when final publications are prepared and submitted. Making this provisional data available benefits the research in that it increases the likelihood that other users may uncover potential quality issues with the data. It also benefits the project as we are providing useful information to our partners and stakeholders in a time frame that is more beneficial for their end uses. This addendum provides the details of how we will make data from our high-resolution cyanobacteria research available and how we will conduct preliminary quality control checks as those data are collected.
+Research projects are often conducted in areas that are of high interest to a variety of partners and they are often interested in seeing preliminary data and results as they come available (i.e. provisional) instead of at the end of a project when final publications are prepared and submitted. Making this provisional data available benefits the research in that it increases the likelihood that other users may uncover potential quality issues with the data. It also benefits the project as we are providing useful information to our partners in a time frame that is more beneficial for their end uses. This addendum provides the details of how we will make data from our high-resolution cyanobacteria research available and how we will conduct preliminary quality control checks as those data are collected.
 
 ## Data {#data}
 
@@ -63,7 +63,7 @@ Data for this project are collected three ways: via telemetry from the buoys, di
 
 ## Data management {#data-management}
 
-All project data will be managed as a an Apache Arrow formatted columnar data file (https://arrow.apache.org/).  This format is cross-platform and provides efficient storage and read/write.  Changes to this file are managed via the git version control system and ccess to the data for project members are via a private repository (USEPA/high_res_cyano) inside of EPA's Enterprise GitHub organization. 
+All project data will be managed as a an Apache Arrow formatted columnar data file (https://arrow.apache.org/).  This format is cross-platform and provides efficient storage and read/write.  Changes to this file are managed via the git version control system and access to the data for project members are via a private repository (USEPA/high_res_cyano) inside of EPA's Enterprise GitHub organization. 
 
 The data file will be generated on a schedule from files committed to the repository.  Each of these files is provided in a unique format.  We will use a scheduled run, via GitHub Actions, to clean these files and reorganize them into a standard format.  All datasets will be combined into the single project data file.  The structure of this file is outlined in Table 2.  
 
