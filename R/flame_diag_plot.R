@@ -14,5 +14,5 @@ flame_dat <- read_csv(here("data/FLAMe/satlink/Sutron Satlink 3_log_20220803_202
 
 flame_dat %>%
   ggplot(aes(x = time, y = value)) +
-  geom_point() +
+  geom_line() +
   facet_grid(variable ~ ., scales = "free")
